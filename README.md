@@ -1,3 +1,5 @@
+ZERO DAY TOOLS
+
 ## Fashionstore ecommerce app for shopping 
 Due to the covid-19 pandemic, many small-scale businesses and retailers face the issue of selling their goods in the traditional retail methods. There has been a gradual shift to online shopping thereby reducing the physical buying of goods from stores and malls. Shop vendors have therefore incurred huge losses due to their incapability of connecting to the target consumers. There is a need to develop a user-friendly online shopping website to connect businesses with their relevant customers. With the help of this website, one can have an online shopping experience from the comfort of their home. There is no compelling reason to go to crowded stores or shopping centers during festival seasons.to shop online one simply requires a personal computer or a laptop and one payment sending option.
 
